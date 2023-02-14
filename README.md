@@ -1,2 +1,3 @@
 # -Covid-19-and-Character-Strengths-Dataset-Regression-
-This project focused on investigating prolonged waves of COVID-19's psychological effects on people. 
+
+This project aimed to analyze the prolonged waves of COVID-19's psychological effects on people by using COVID-19 datasets published by Open Research Dataset in Kaggle from John Hopkins University. The datasets represented the cumulative number of confirmed cases per day in each country. Through regression and polynomial regression machine learning techniques, the project established relationships between the psychological health of people during the COVID-19 pandemic. By using accurate and cutting-edge analytical methods, this project provides insights into the psychological impact of COVID-19 that can be useful for public health researchers.
